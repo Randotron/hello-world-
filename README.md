@@ -3,3 +3,5 @@
 <ul> starts a list in html and </ul> stops the list 
 <li> the attribute for list items </li>
 <p><a href=>"https://www.twitch.tv/</a>
+  
+  <img src="
