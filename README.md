@@ -4,7 +4,7 @@
 <li> the attribute for list items </li>
 <p><a href=>"https://www.twitch.tv/</a>
   
-  <img src="https://hubpng.com/public/uploads/preview/hello-kitty-png-hd-hearts-11575465181wqktzdwfws.png">
+  <img srcset="https://hubpng.com/public/uploads/preview/hello-kitty-png-hd-hearts-11575465181wqktzdwfws.png">
   <p> Not sure how the hell to get an image in here</p>
   
 p {
